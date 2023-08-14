@@ -23,6 +23,7 @@ namespace DemoGit
             }
             //bo sung them code
             //code moi
+            //code moi cap nhat tren github
             Console.ReadKey();
         }
     }
