@@ -21,7 +21,8 @@ namespace DemoGit
             {
                 Console.WriteLine("{0} khong la so chinh phuong", n);
             }
-            Console.WriteLine();
+            //bo sung them code
+            //code moi
             Console.ReadKey();
         }
     }
