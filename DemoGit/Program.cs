@@ -24,6 +24,7 @@ namespace DemoGit
             //bo sung them code
             //code moi
             //code moi cap nhat tren github
+            //push code with git command
             Console.ReadKey();
         }
     }
