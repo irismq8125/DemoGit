@@ -21,8 +21,6 @@ namespace DemoGit
             {
                 Console.WriteLine("{0} khong la so chinh phuong", n);
             }
-            //bo sung them code
-            //code moi
             //code moi cap nhat tren github
             //push code with git command
             Console.ReadKey();
